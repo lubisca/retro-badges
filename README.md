@@ -8,4 +8,4 @@
 <img src="CSS3-button.png" width="57" height="28">
 <img src="JS-button.png" width="126" height="28">
 
- <img src="VSCODE-button.png" width="170" height="28">  <img src="blender.png" width="104" height="28"> 
+ <img src="VSCODE-button.png" width="170" height="28">  <img src="BLENDER-button.png" width="104" height="28"> 
