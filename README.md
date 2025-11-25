@@ -1,4 +1,4 @@
-<img src="btn.png" width="104" height="28"> ![Blender](https://img.shields.io/badge/blender-%23E34F26.svg?style=for-the-badge&logo=blender&logoColor=white) <img src="btn.svg" width="104" height="28"> <img src="btncomborda.png" width="104" height="28">
+<img src="btngrande.png" width="104" height="28"> <br> <img src="btn.png" width="104" height="28"> ![Blender](https://img.shields.io/badge/blender-%23E34F26.svg?style=for-the-badge&logo=blender&logoColor=white) <img src="btn.svg" width="104" height="28"> <img src="btncomborda.png" width="104" height="28">
 
 ## **Ferramentas e Linguagens** 
 
@@ -9,4 +9,4 @@
 ![JS](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<img src="btn.png" width="104" height="28">
+<img src="btngrande.png" width="104" height="28">
