@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<img src="HTML-button.png" width="88" height="28">
-<img src="CSS3-button.png" width="57" height="28">
-<img src="JS-button.png" width="126" height="28">
+<img src="assets/HTML-button.png" width="88" height="28">
+<img src="assets/CSS3-button.png" width="57" height="28">
+<img src="assets/JS-button.png" width="126" height="28">
 
- <img src="VSCODE-button.png" width="170" height="28">  <img src="BLENDER-button.png" width="104" height="28"> 
+ <img src="assets/VSCODE-button.png" width="170" height="28">  <img src="assets/BLENDER-button.png" width="104" height="28"> 
