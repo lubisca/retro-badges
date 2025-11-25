@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="HTML-button .png" width="88" height="28">
+<img src="HTML-button.png" width="88" height="28">
 <img src="CSS3-button.png" width="57" height="28">
 <img src="JS-button.png" width="126" height="28">
 
