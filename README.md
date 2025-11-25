@@ -9,3 +9,14 @@
 <img src="assets/JS-button.png" width="126" height="28">
 
  <img src="assets/VSCODE-button.png" width="170" height="28">  <img src="assets/BLENDER-button.png" width="104" height="28"> 
+
+<div align="left">
+
+### **Front-End**
+
+| Name             | Badge            | Markdown                                                                                                                                  |
+|------------------|----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Visual Code Studio     |  <img src="assets/VSCODE-button.png" width="170" height="28">             | `assets/VSCODE-button.png`             |
+| CSS 3 | <img src="assets/CSS3-button.png" width="57" height="28"> | `assets/CSS3-button.png` |
+| HTML 5| <img src="assets/HTML-button.png" width="88" height="28"> | `assets/HTML-button.png` |
+| JavaScript| <img src="assets/JS-button.png" width="126" height="28"> | `assets/JS-button.png` |
