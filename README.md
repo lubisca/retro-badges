@@ -4,9 +4,8 @@
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<img src="HTML-button .png" width="88" height="28">
+<img src="CSS3-button.png" width="57" height="28">
+<img src="JS-button.png" width="126" height="28">
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<img src="blender.png" width="104" height="28"> <img src="visual-studio-code.png" width="104" height="28">
+ <img src="VSCODE-button.png" width="170" height="28">  <img src="blender.png" width="104" height="28"> 
