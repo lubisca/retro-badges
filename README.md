@@ -39,8 +39,8 @@ Clique em uma categoria para ir direto para as badges:
 
 | Nome | Badge | HTML (Copiar e Colar) |
 | :--- | :---: | :--- |
-| **Instagram** | <img src="assets/INSTAGRAM-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/INSTAGRAM-button.png" height="28" alt="Instagram">` |
-| **Twitter** | <img src="assets/TWITTER-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/TWITTER-button.png" height="28" alt="Twitter">` |
+| **Instagram** | <img src="assets/INSTAGRAM-button.png" height="28"> | `<a target="_blank" href="https://www.instagram.com/SEU-NOME=AQUI/"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/INSTAGRAM-button.png" height="28" alt="Instagram">` |
+| **Twitter** | <img src="assets/TWITTER-button.png" height="28"> | `<a target="_blank" href="https://x.com/SEU-NOME-AQUI"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/TWITTER-button.png" height="28" alt="Twitter">` |
 
 <br>
 
