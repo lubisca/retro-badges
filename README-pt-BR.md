@@ -51,7 +51,7 @@ Clique em uma categoria para ir direto para as badges:
 
 | Nome | Badge | HTML (Copiar e Colar) |
 | :--- | :---: | :--- |
-| **VS Code** | <img src="assets/VSCODE-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/assets/VSCODE-button.png" height="28" alt="VS Code">` |
+| **VS Code** | <img src="assets/VS-CODE-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/assets/VSCODE-button.png" height="28" alt="VS Code">` |
 | **Blender** | <img src="assets/BLENDER-button.png" height="28"> | `` |
  <!--      | ** ** | <img src="assets/-button.png" height="28"> | `` |                 -->
 *Em breve...*
