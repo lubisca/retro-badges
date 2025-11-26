@@ -5,7 +5,7 @@
 **A collection of retro badges to give that nostalgic look to your profile.**
 <br>
 
-**English** | [Português](/README.md)
+**English** | [Português](/README-pt-BR.md)
 
 <img src="assets/retro.gif" width="600" height="300" alt="Retro GIF"> 
 
