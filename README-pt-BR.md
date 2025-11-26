@@ -30,7 +30,7 @@ Clique em uma categoria para ir direto para as badges:
 
 | Nome | Badge | HTML (Copiar e Colar) |
 | :--- | :---: | :--- |
-| **CSS 3** | <img src="assets/CSS3-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/assets/CSS3-button.png" height="28" alt="CSS 3">` |
+| **CSS 3** | <img src="assets/CSS3-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/CSS3-button.png" height="28" alt="CSS 3">` |
 | **HTML 5** | <img src="assets/HTML-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/assets/HTML-button.png" height="28" alt="HTML 5">` |
 | **JavaScript** | <img src="assets/JS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/assets/JS-button.png" height="28" alt="JavaScript">` |
 
