@@ -1,15 +1,13 @@
-<!-- <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/302ab8eb-2fda-48a3-a4f5-dc30adfdf92e" /> --> 
 <div align="center">
 
 # ── .✦ Retro Badges Collection 💾
 
-**Uma coleção de badges retro para dar aquele visual nostálgico ao seu perfil.**
+**Uma coleção de badges para dar aquele visual nostálgico e profissional ao seu perfil.**
 <br>
 
-[English ](/README-en-US.md) | **Português**
+[English](/README-en-US.md) | **Português**
 
-<img src="assets/retro.gif" width="600" height="300" alt="image"> 
-
+<img src="assets/retro.gif" width="600" height="300" alt="Retro Banner">
 
 </div>
 
@@ -31,8 +29,8 @@ Clique em uma categoria para ir direto para as badges:
 | Nome | Badge | HTML (Copiar e Colar) |
 | :--- | :---: | :--- |
 | **CSS 3** | <img src="assets/CSS3-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/CSS3-button.png" height="28" alt="CSS 3">` |
-| **HTML 5** | <img src="assets/HTML-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/assets/HTML-button.png" height="28" alt="HTML 5">` |
-| **JavaScript** | <img src="assets/JS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/assets/JS-button.png" height="28" alt="JavaScript">` |
+| **HTML 5** | <img src="assets/HTML-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/HTML-button.png" height="28" alt="HTML 5">` |
+| **JavaScript** | <img src="assets/JS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/JS-button.png" height="28" alt="JavaScript">` |
 
 <br>
 
@@ -41,8 +39,8 @@ Clique em uma categoria para ir direto para as badges:
 
 | Nome | Badge | HTML (Copiar e Colar) |
 | :--- | :---: | :--- |
-| **Instagram** | <img src="assets/INSTAGRAM-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/assets/INSTAGRAM-button.png" height="28" alt="Instagram">` |
-| **Twitter** | <img src="assets/TWITTER-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/assets/TWITTER-button.png" height="28" alt="Twitter">` |
+| **Instagram** | <img src="assets/INSTAGRAM-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/INSTAGRAM-button.png" height="28" alt="Instagram">` |
+| **Twitter** | <img src="assets/TWITTER-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/TWITTER-button.png" height="28" alt="Twitter">` |
 
 <br>
 
@@ -51,10 +49,9 @@ Clique em uma categoria para ir direto para as badges:
 
 | Nome | Badge | HTML (Copiar e Colar) |
 | :--- | :---: | :--- |
-| **VS Code** | <img src="assets/VS-CODE-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/assets/VSCODE-button.png" height="28" alt="VS Code">` |
-| **Blender** | <img src="assets/BLENDER-button.png" height="28"> | `` |
- <!--      | ** ** | <img src="assets/-button.png" height="28"> | `` |                 -->
-*Em breve...*
+| **VS Code** | <img src="assets/VSCODE-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/VSCODE-button.png" height="28" alt="VS Code">` |
+| **Blender** | <img src="assets/BLENDER-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/BLENDER-button.png" height="28" alt="Blender">` |
+ *Em breve...*
 
 ---
 
