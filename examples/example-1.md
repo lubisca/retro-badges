@@ -6,7 +6,7 @@
 <img src="../assets/CSS3-button.png" height="28">
 <img src="../assets/JS-button.png" height="28">
 <br>
-<img src="../assets/VS-CODE-button.png" height="28">
+<img src="../assets/VSCODE-button.png" height="28">
 <img src="../assets/BLENDER-button.png" height="28">
 
 ## **Social** 
