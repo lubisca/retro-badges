@@ -1,4 +1,5 @@
-<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/302ab8eb-2fda-48a3-a4f5-dc30adfdf92e" /><div align="center">
+<!-- <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/302ab8eb-2fda-48a3-a4f5-dc30adfdf92e" /> --> 
+<div align="center">
 
 # ── .✦ Retro Badges Collection 💾
 
@@ -7,7 +8,7 @@
 
 
 
- <img src="https://i.pinimg.com/originals/5c/57/91/5c5791f20a4bc8fcd71cd572806f570c.gif" height="31"> 
+<img src="assets/retro.gif" width="600" height="300" alt="image"> 
 
 
 </div>
