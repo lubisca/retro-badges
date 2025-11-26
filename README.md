@@ -64,5 +64,5 @@ Quer adicionar uma nova badge?
 
 <div align="center">
     <br>
-    Feito com 💜 e Pixels.
+    Feito com 💜.
 </div>
