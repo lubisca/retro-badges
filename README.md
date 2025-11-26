@@ -20,3 +20,10 @@
 | CSS 3 | <img src="assets/CSS3-button.png" width="57" height="28"> | `assets/CSS3-button.png` |
 | HTML 5| <img src="assets/HTML-button.png" width="88" height="28"> | `assets/HTML-button.png` |
 | JavaScript| <img src="assets/JS-button.png" width="126" height="28"> | `assets/JS-button.png` |
+
+### **Social**
+
+| Name             | Badge            | Markdown                                                                                                                                  |
+|------------------|----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Instagram     |  <img src="assets/INSTAGRAM-button.png" width="124" height="28">             | `assets/INSTAGRAM-button.png`             |
+| Twitter | <img src="assets/TWITTER-button.png" width="83" height="28"> | `assets/TWITTER-button.png` |
