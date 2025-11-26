@@ -6,7 +6,7 @@
 **Uma coleção de badges retro para dar aquele visual nostálgico ao seu perfil.**
 <br>
 
-
+[English ](/README-en-US.md) | **Português**
 
 <img src="assets/retro.gif" width="600" height="300" alt="image"> 
 
