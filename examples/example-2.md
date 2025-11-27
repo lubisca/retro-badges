@@ -48,13 +48,13 @@
 
 Sistema Operacional:
 
-<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/LINUX-button.png" height="50" alt="Linux">
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/LINUX-button.png" height="35" alt="Linux">
 
 <br><br>
 
 Editor de código:
 
-<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/VSCODE-button.png" height="50" alt="Visual Studio Code">
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/VSCODE-button.png" height="35" alt="Visual Studio Code">
 &nbsp;
 
 <br><br>
@@ -64,9 +64,9 @@ Editor de código:
 **Uso:**
 
 
-<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/JS-button.png" height="45" alt="JavaScript">
-<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/HTML-button.png" height="45" alt="HTML5">
-<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/CSS3-button.png" height="45" alt="CSS3">
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/JS-button.png" height="35" alt="JavaScript">
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/HTML-button.png" height="35" alt="HTML5">
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/CSS3-button.png" height="35" alt="CSS3">
 
 <br>
 <br>
@@ -74,7 +74,7 @@ Editor de código:
 **Pretendo Usar:**
 
 
-<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/BLENDER-button.png" height="45" alt="Blender">
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/BLENDER-button.png" height="35" alt="Blender">
 
 </div>
 
