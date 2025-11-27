@@ -20,6 +20,7 @@ Click on a category to jump directly to the badges:
 * [💻 Front-End](#-front-end)
 * [🌐 Social](#-social)
 * [🛠️ Tools & Software](#%EF%B8%8F-tools--software)
+* [🖥️ Operating Systems](#%EF%B8%8F-operating-systems)
 
 ---
 
@@ -52,6 +53,17 @@ Click on a category to jump directly to the badges:
 | **VS Code** | <img src="assets/VSCODE-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/VSCODE-button.png" height="28" alt="VS Code">` |
 | **Blender** | <img src="assets/BLENDER-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/BLENDER-button.png" height="28" alt="Blender">` |
  *Coming soon...*
+
+<br>
+
+## 🖥️ Operating Systems
+[Back to top](#-categories)
+
+| Name | Badge | HTML (Copy & Paste) |
+| :--- | :---: | :--- |
+| **Windows** | <img src="assets/WINDOWS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/WINDOWS-button.png" height="28" alt="Windows">` |
+| **Linux** | <img src="assets/LINUX-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/LINUX-button.png" height="28" alt="Linux">` |
+| **macOS** | <img src="assets/MAC-OS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/MAC-OS-button.png" height="28" alt="macOS">` |
 
 ---
 
