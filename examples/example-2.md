@@ -53,7 +53,7 @@
 <br>
 <br>
 
-<p>Badges style provided by <a href="https://github.com/lubisca/retro-badges">Retro Badges Collection</a></p>
+<p>Badges by <a href="https://github.com/lubisca/retro-badges">Retro Badges Collection</a></p>
 
 </div>
 </center>
