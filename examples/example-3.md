@@ -1,0 +1,52 @@
+<div align="center">
+
+# **Olá, eu sou [Seu Nome]**
+
+### Frontend Developer | React & TypeScript
+📍 [Sua Cidade] | 💌 [seu-email@exemplo.com]
+<br>
+🔗 [LinkedIn](#) | 🔗 [GitHub](#)
+
+<br>
+
+## Sobre mim
+
+> Estudante de **[Seu Curso Aqui]** e entusiasta por tecnologia. Meu principal objetivo é contribuir ativamente em **projetos open-source e inovadores**. Possuo foco em **qualidade de código, performance, trabalho em equipe e boas práticas de desenvolvimento.**
+
+<br>
+
+## 🛠️ Stack Tecnológica
+
+### 🌟 Core Stack
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/REACT-button.png" height="45" alt="React">
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/NEXTDOT-JS-button.png" height="45" alt="Next.js">
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/TAILWINDCSS-button.png" height="45" alt="Tailwind CSS">
+<br>
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/JS-button.png" height="45" alt="JavaScript">
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/HTML-button.png" height="45" alt="HTML5">
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/CSS3-button.png" height="45" alt="CSS3">
+
+<br><br>
+
+### 📚 Outras Ferramentas
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+<br>
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true)
+<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true)
+
+<br>
+<br>
+
+<p align="right">
+  <small>Badges 3D by <a href="https://github.com/lubisca/retro-badges">Retro Badges Collection</a></small>
+</p>
+
+</div>
