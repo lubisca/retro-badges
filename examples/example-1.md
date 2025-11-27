@@ -1,6 +1,6 @@
 <div align="center">
 
-## ***Sobre Mim***
+## ***Example***
 
 <div align="center">
   
@@ -13,7 +13,7 @@
 + 01101111 01101100 01100001 :p
 ```
 
-### 🛠 **My Tools:**
+### 🛠 **My Tools**
 
 
 <img src="../assets/HTML-button.png" height="28">
