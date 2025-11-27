@@ -44,8 +44,8 @@
 <br>
 <br>
 
-<p align="right">
-  <small>Badges 3D by <a href="https://github.com/lubisca/retro-badges">Retro Badges Collection</a></small>
+<p align="center">
+  <small>Badges by <a href="https://github.com/lubisca/retro-badges">Retro Badges Collection</a></small>
 </p>
 
 </div>
