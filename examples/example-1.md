@@ -1,6 +1,8 @@
 <div align="center">
 
 ## ***Sobre Mim***
+
+<div align="center">
   
 ```diff
 @@example@@
