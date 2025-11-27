@@ -37,7 +37,7 @@
 
 **Grupo**
 
-<a href='https://github.com/xvierdev/EGProj'><b>Nome do projeto</b></a> - Descrição do projeto
+<a href='https://github.com/'><b>Nome do projeto</b></a> - Descrição do projeto
 
 </div>
 
