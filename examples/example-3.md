@@ -29,10 +29,9 @@
 <br><br>
 
 ### 📚 Outras Ferramentas
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/VSCODE-button.png" height="45" alt="Visual Studio Code">
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/BLENDER-button.png" height="45" alt="Blender">
+
 
 <br>
 
