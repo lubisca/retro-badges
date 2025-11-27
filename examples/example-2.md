@@ -23,7 +23,7 @@
 </center>
 
 <div>
-<h2 align="center">Projetos</h2>
+<h2>Projetos</h2>
 
 **Faculdade**
 
