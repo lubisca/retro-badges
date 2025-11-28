@@ -18,7 +18,7 @@
 Click on a category to jump directly to the badges:
 
 * [💻 Languages](#-Languages)
-* [⚙️ Back-End](#%EF%B8%8F-back-end)
+* [⚙️ Frameworks & Libraries](#%EF%B8%8F-frameworks--libraries)
 * [🌐 Social](#-social)
 * [🛠️ Tools & Software](#%EF%B8%8F-tools--software)
 * [🖥️ Operating Systems](#%EF%B8%8F-operating-systems)
