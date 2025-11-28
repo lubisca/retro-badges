@@ -18,6 +18,7 @@
 Click on a category to jump directly to the badges:
 
 * [💻 Front-End](#-front-end)
+* [⚙️ Back-End](#%EF%B8%8F-back-end)
 * [🌐 Social](#-social)
 * [🛠️ Tools & Software](#%EF%B8%8F-tools--software)
 * [🖥️ Operating Systems](#%EF%B8%8F-operating-systems)
@@ -39,6 +40,14 @@ Click on a category to jump directly to the badges:
 | **Ant Design** | <img src="assets/ANTDESIGN-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/ANTDESIGN-button.png" height="28" alt="Ant Design">` |
 
 <br>
+
+## ⚙️ Back-End
+[Voltar ao topo](#-categorias)
+
+| Nome | Badge | HTML (Copiar e Colar) |
+| :--- | :---: | :--- |
+| **Python** | <img src="assets/PYTHON-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/PYTHON-button.png" height="28" alt="Python">` |
+| **PHP** | <img src="assets/PHP-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/PHP-button.png" height="28" alt="PHP">` |
 
 ## 🌐 Social
 [Back to top](#-categories)
@@ -64,15 +73,6 @@ Click on a category to jump directly to the badges:
 | **Affinity** | <img src="assets/AFFINITY-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/AFFINITY-button.png" height="28" alt="Affinity">` |
  *Coming soon...*
 
-<br>
-
-## ⚙️ Back-End
-[Voltar ao topo](#-categorias)
-
-| Nome | Badge | HTML (Copiar e Colar) |
-| :--- | :---: | :--- |
-| **Python** | <img src="assets/PYTHON-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/PYTHON-button.png" height="28" alt="Python">` |
-| **PHP** | <img src="assets/PHP-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/PHP-button.png" height="28" alt="PHP">` |
 
 <br>
 
