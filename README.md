@@ -45,7 +45,7 @@ Clique em uma categoria para ir direto para as badges:
 
 <br>
 
-## ⚙️ Frameworks e bibliotecas
+## ⚙️ Frameworks & bibliotecas
 [Voltar ao topo](#-categorias)
 
 | Nome | Badge | HTML (Copiar e Colar) |
