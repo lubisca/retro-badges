@@ -43,7 +43,7 @@ Click on a category to jump directly to the badges:
 <br>
 
 ## ⚙️ Back-End
-[Voltar ao topo](#-categorias)
+[Voltar ao topo](#-categories)
 
 | Nome | Badge | HTML (Copiar e Colar) |
 | :--- | :---: | :--- |
