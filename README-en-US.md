@@ -27,7 +27,7 @@ Click on a category to jump directly to the badges:
 ---
 
 ## 💻 Languages
-[Voltar ao topo](#-categorias)
+[Voltar ao topo](#-categories)
 
 | Nome | Badge | HTML (Copiar e Colar) |
 | :--- | :---: | :--- |
@@ -47,7 +47,7 @@ Click on a category to jump directly to the badges:
 <br>
 
 ## ⚙️ Frameworks & Libraries
-[Voltar ao topo](#-categorias)
+[Voltar ao topo](#-categories)
 
 | Nome | Badge | HTML (Copiar e Colar) |
 | :--- | :---: | :--- |
