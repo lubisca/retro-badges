@@ -49,6 +49,10 @@ Clique em uma categoria para ir direto para as badges:
 | :--- | :---: | :--- |
 | **Python** | <img src="assets/PYTHON-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/PYTHON-button.png" height="28" alt="Python">` |
 | **PHP** | <img src="assets/PHP-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/PHP-button.png" height="28" alt="PHP">` |
+| **Java** | <img src="assets/JAVA-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/JAVA-button.png" height="28" alt="Java">` |
+| **C#** | <img src="assets/C%23-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/C%23-button.png" height="28" alt="C#">` |
+| **C++** | <img src="assets/C%2B%2B-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/C%2B%2B-button.png" height="28" alt="C++">` |
+| **C** | <img src="assets/C-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/C-button.png" height="28" alt="C">` |
 
 <br>
 
