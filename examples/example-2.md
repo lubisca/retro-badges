@@ -9,7 +9,7 @@
 <h2 align='center'>Linguagens mais usadas:</h2>
 
 <div align='center'>
-<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/JS-button.png" height="30" alt="JavaScript">
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/JS-button.png" height="35" alt="JavaScript">
 &nbsp;
 
 <div align='center'>
