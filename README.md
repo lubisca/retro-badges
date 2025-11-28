@@ -18,6 +18,7 @@
 Clique em uma categoria para ir direto para as badges:
 
 * [💻 Front-End](#-front-end)
+* [⚙️ Back-End](#%EF%B8%8F-back-end)
 * [🌐 Social](#-social)
 * [🛠️ Tools & Softwares](#%EF%B8%8F-tools--softwares)
 * [🖥️ Sistemas Operacionais](#%EF%B8%8F-sistemas-operacionais)
@@ -47,6 +48,8 @@ Clique em uma categoria para ir direto para as badges:
 | :--- | :---: | :--- |
 | **Python** | <img src="assets/PYTHON-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/PYTHON-button.png" height="28" alt="Python">` |
 | **PHP** | <img src="assets/PHP-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/PHP-button.png" height="28" alt="PHP">` |
+
+<br>
 
 ## 🌐 Social
 [Voltar ao topo](#-categorias)
