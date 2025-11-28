@@ -17,7 +17,7 @@
 
 Click on a category to jump directly to the badges:
 
-* [💻 Front-End](#-front-end)
+* [💻 Languages](#-Languages)
 * [⚙️ Back-End](#%EF%B8%8F-back-end)
 * [🌐 Social](#-social)
 * [🛠️ Tools & Software](#%EF%B8%8F-tools--software)
@@ -26,7 +26,7 @@ Click on a category to jump directly to the badges:
 
 ---
 
-## 💻 Front-End
+## 💻 Languages
 [Back to top](#-categories)
 
 | Name | Badge | HTML (Copy & Paste) |
