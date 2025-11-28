@@ -27,19 +27,22 @@ Click on a category to jump directly to the badges:
 ---
 
 ## 💻 Languages
-[Back to top](#-categories)
+[Voltar ao topo](#-categorias)
 
-| Name | Badge | HTML (Copy & Paste) |
+| Nome | Badge | HTML (Copiar e Colar) |
 | :--- | :---: | :--- |
 | **CSS 3** | <img src="assets/CSS3-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/CSS3-button.png" height="28" alt="CSS 3">` |
 | **HTML 5** | <img src="assets/HTML-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/HTML-button.png" height="28" alt="HTML 5">` |
 | **JavaScript** | <img src="assets/JS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/JS-button.png" height="28" alt="JavaScript">` |
 | **TypeScript** | <img src="assets/TYPESCRIPT-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/TYPESCRIPT-button.png" height="28" alt="TypeScript">` |
-| **React** | <img src="assets/REACT-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/REACT-button.png" height="28" alt="React">` |
-| **Next.js** | <img src="assets/NEXTDOT-JS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/NEXTDOT-JS-button.png" height="28" alt="Next.js">` |
-| **Tailwind CSS** | <img src="assets/TAILWINDCSS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/TAILWINDCSS-button.png" height="28" alt="Tailwind CSS">` |
-| **Bootstrap** | <img src="assets/BOOTSTRAP-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/BOOTSTRAP-button.png" height="28" alt="Bootstrap">` |
-| **Ant Design** | <img src="assets/ANTDESIGN-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/ANTDESIGN-button.png" height="28" alt="Ant Design">` |
+| **Python** | <img src="assets/PYTHON-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/PYTHON-button.png" height="28" alt="Python">` |
+| **PHP** | <img src="assets/PHP-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/PHP-button.png" height="28" alt="PHP">` |
+| **Java** | <img src="assets/JAVA-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/JAVA-button.png" height="28" alt="Java">` |
+| **C#** | <img src="assets/C%23-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/C%23-button.png" height="28" alt="C#">` |
+| **C++** | <img src="assets/C%2B%2B-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/C%2B%2B-button.png" height="28" alt="C++">` |
+| **C** | <img src="assets/C-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/C-button.png" height="28" alt="C">` |
+| **Swift** | <img src="assets/SWIFT-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/SWIFT-button.png" height="28" alt="Swift">` |
+
 
 <br>
 
