@@ -18,7 +18,7 @@
 Clique em uma categoria para ir direto para as badges:
 
 * [💻 Languages](#-Languages)
-* [⚙️ Frameworks & Libraries](#%EF%B8%8F-frameworks--libraries)
+* [⚙️ Frameworks & Bibliotecas](#%EF%B8%8F-frameworks--bibliotecas)
 * [🌐 Social](#-social)
 * [🛠️ Tools & Softwares](#%EF%B8%8F-tools--softwares)
 * [🖥️ Sistemas Operacionais](#%EF%B8%8F-sistemas-operacionais)
@@ -45,7 +45,7 @@ Clique em uma categoria para ir direto para as badges:
 
 <br>
 
-## ⚙️ Frameworks & Libraries
+## ⚙️ Frameworks e bibliotecas
 [Voltar ao topo](#-categorias)
 
 | Nome | Badge | HTML (Copiar e Colar) |
