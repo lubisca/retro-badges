@@ -22,6 +22,7 @@ Clique em uma categoria para ir direto para as badges:
 * [🌐 Social](#-social)
 * [🛠️ Tools & Softwares](#%EF%B8%8F-tools--softwares)
 * [🖥️ Sistemas Operacionais](#%EF%B8%8F-sistemas-operacionais)
+* [🎨 Exemplos/Templates](/examples)
 
 ---
 
