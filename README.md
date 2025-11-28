@@ -46,7 +46,7 @@ Clique em uma categoria para ir direto para as badges:
 | :--- | :---: | :--- |
 | **Instagram** | <img src="assets/INSTAGRAM-button.png" height="28"> | `<a target="_blank" href="https://www.instagram.com/SEU-NOME-AQUI/"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/INSTAGRAM-button.png" height="28" alt="Instagram">` |
 | **Twitter** | <img src="assets/TWITTER-button.png" height="28"> | `<a target="_blank" href="https://x.com/SEU-NOME-AQUI"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/TWITTER-button.png" height="28" alt="Twitter">` |
-
+| **Gmail** | <img src="assets/GMAIL-button.png" height="28"> | `<a href="mailto:SEU-EMAIL-AQUI@gmail.com"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/GMAIL-button.png" height="28" alt="Gmail"></a>` |
 <br>
 
 ## 🛠️ Tools & Softwares
@@ -56,6 +56,9 @@ Clique em uma categoria para ir direto para as badges:
 | :--- | :---: | :--- |
 | **VS Code** | <img src="assets/VSCODE-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/VSCODE-button.png" height="28" alt="VS Code">` |
 | **Blender** | <img src="assets/BLENDER-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/BLENDER-button.png" height="28" alt="Blender">` |
+| **Figma** | <img src="assets/FIGMA-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/FIGMA-button.png" height="28" alt="Figma">` |
+| **Photoshop** | <img src="assets/ADOBE-PHOTOSHOP-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/ADOBE-PHOTOSHOP-button.png" height="28" alt="Adobe Photoshop">` |
+| **Affinity** | <img src="assets/AFFINITY-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/AFFINITY-button.png" height="28" alt="Affinity">` |
  *Em breve...*
 
  <br>
