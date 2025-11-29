@@ -3,9 +3,9 @@
 
 # 👋 Hi there, I'm [Seu Nome]
 
-- 🔭 I'm a **Learner** & **Programmer**
-- 💼 Currently working on **Open Source Projects**
-- 🎓 Eager to drive innovation by applying advanced techniques to real-world projects.
+<br> 🔭 I'm a **Learner** & **Programmer**
+<br> 💼 Currently working on **Open Source Projects**
+<br> 🎓 Eager to drive innovation by applying advanced techniques to real-world projects.
 
 <br>
 
