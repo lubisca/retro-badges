@@ -27,9 +27,11 @@ Se você não usa o Affinity, siga esta receita para criar a badge do zero:
 * **Largura:** Variável. Você deve aumentar ou diminuir a largura para caber o texto, mas nunca mexer na altura.
 
 ### 2. O Ícone
-* **Fonte:** Acesse o site [Simple Icons.org](https://simpleicons.org/).
-* **Download:** Baixe o ícone em **SVG**.
-* **Tamanho:** Redimensione para **15x15 pixels**.
+* **Fonte:** Acesse o site [Simple Icons](https://simpleicons.org/).
+* **Download:** Baixe o ícone da tecnologia desejada no formato **SVG**.
+* **Tamanho:** Redimensione o ícone para **15x15 pixels**.
+* **Cor:** Aplique no FX uma **Sobreposição de Cor** (Color Overlay) definida como **BRANCA** (#FFFFFF).
+* **Sombra:** Adicione no FX uma **Sombra Externa** na cor preta, com raio de **0.3px**.
 
 ### 3. O Texto (Tipografia)
 * **Fonte Oficial:** Utilize a fonte **VT323**.
