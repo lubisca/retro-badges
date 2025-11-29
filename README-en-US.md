@@ -34,6 +34,7 @@ Click on a category to jump directly to the badges:
 | **CSS 3** | <img src="assets/CSS3-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/CSS3-button.png" height="28" alt="CSS 3">` |
 | **HTML 5** | <img src="assets/HTML-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/HTML-button.png" height="28" alt="HTML 5">` |
 | **JavaScript** | <img src="assets/JS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/JS-button.png" height="28" alt="JavaScript">` |
+| **Lua** | <img src="assets/LUA-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/LUA-button.png" height="28" alt="Lua">` |
 | **TypeScript** | <img src="assets/TYPESCRIPT-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/TYPESCRIPT-button.png" height="28" alt="TypeScript">` |
 | **Python** | <img src="assets/PYTHON-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/PYTHON-button.png" height="28" alt="Python">` |
 | **PHP** | <img src="assets/PHP-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/PHP-button.png" height="28" alt="PHP">` |
