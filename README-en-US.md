@@ -17,12 +17,13 @@
 
 Click on a category to jump directly to the badges:
 
+* [🎨 Examples/Templates](/examples)
 * [💻 Languages](#-Languages)
 * [⚙️ Frameworks & Libraries](#%EF%B8%8F-frameworks--libraries)
 * [🌐 Social](#-social)
 * [🛠️ Tools & Software](#%EF%B8%8F-tools--software)
 * [🖥️ Operating Systems](#%EF%B8%8F-operating-systems)
-* [🎨 Examples/Templates](/examples)
+
 
 ---
 
