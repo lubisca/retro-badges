@@ -15,12 +15,11 @@
   <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/GITHUB-button.png" height="40" alt="GitHub">
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/SEU-USER">
-  <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/LINKEDIN-button.png" height="40" alt="LinkedIn">
-</a>
-&nbsp;
 <a href="mailto:seu-email@gmail.com">
   <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/GMAIL-button.png" height="40" alt="Gmail">
+</a>
+<a href="https://linkedin.com/in/SEU-USER">
+  <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/LINKEDIN-button.png" height="40" alt="LinkedIn">
 </a>
 &nbsp;
 <a href="https://twitter.com/SEU-USER">
