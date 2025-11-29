@@ -102,9 +102,9 @@ Clique em uma categoria para ir direto para as badges:
 ## 🤝 Contribuindo
 
 Quer adicionar uma nova badge?
-1. Faça um Fork deste projeto.
-2. Adicione sua imagem na pasta `assets`.
-3. Abra um Pull Request.
+Para garantir que todas as badges mantenham o padrão visual (3D, cores e tamanho), criamos um guia detalhado e disponibilizamos templates editáveis.
+
+👉 **[Clique aqui para ler o Guia de Contribuição e baixar os Templates](docs/CONTRIBUTING.md)**
 
 <div align="center">
     <br>
