@@ -72,6 +72,9 @@ Click on a category to jump directly to the badges:
 | **Gmail** | <img src="assets/GMAIL-button.png" height="28"> | `<a href="mailto:SEU-EMAIL-AQUI@gmail.com"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/GMAIL-button.png" height="28" alt="Gmail"></a>` |
 | **GitHub** | <img src="assets/GITHUB-button.png" height="28"> | `<a target="_blank" href="https://github.com/SEU-USUARIO"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/GITHUB-button.png" height="28" alt="GitHub"></a>` |
 | **LinkedIn** | <img src="assets/LINKEDIN-button.png" height="28"> | `<a target="_blank" href="https://www.linkedin.com/in/SEU-NOME-AQUI"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/LINKEDIN-button.png" height="28" alt="LinkedIn"></a>` |
+| **Bluesky** | <img src="assets/BLUESKY-button.png" height="28"> | `<a target="_blank" href="https://bsky.app/profile/SEU-USER"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/BLUESKY-button.png" height="28" alt="Bluesky"></a>` |
+| **Discord** | <img src="assets/DISCORD-button.png" height="28"> | `<a target="_blank" href="https://discord.com/users/SEU-ID"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/DISCORD-button.png" height="28" alt="Discord"></a>` |
+| **Threads** | <img src="assets/THREADS-button.png" height="28"> | `<a target="_blank" href="https://www.threads.net/@SEU-USER"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/THREADS-button.png" height="28" alt="Threads"></a>` |
 
 <br>
 
