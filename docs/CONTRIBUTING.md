@@ -27,7 +27,7 @@ Se você não usa o Affinity, siga esta receita para criar a badge do zero:
 * **Largura:** Variável. Você deve aumentar ou diminuir a largura para caber o texto, mas nunca mexer na altura.
 
 ### 2. O Ícone
-* **Fonte:** Acesse o site [SimpleIcons.org](https://simpleicons.org/).
+* **Fonte:** Acesse o site [Simple Icons.org](https://simpleicons.org/).
 * **Download:** Baixe o ícone em **SVG**.
 * **Tamanho:** Redimensione para **15x15 pixels**.
 
