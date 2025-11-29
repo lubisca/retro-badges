@@ -11,7 +11,7 @@ Para facilitar sua vida, disponibilizamos o arquivo editável oficial do **Affin
 📂 **[Baixar Template Oficial (.af)](/docs/template.af)**
 
 **Como usar:**
-1. Abra o arquivo no Affinity Designer.
+1. Abra o arquivo no Affinity.
 2. Copie uma badge existente.
 3. Altere apenas a **Cor**, **Texto** e **Ícone**.
 4. Ajuste a largura conforme necessário, mas **MANTENHA A ALTURA FIXA DE 28px**.
