@@ -101,12 +101,6 @@ Click on a category to jump directly to the badges:
 
 ---
 
-## 🤝 Contributing
-
-Want to add a new badge?
-1. Fork this project.
-2. Add your image to the `assets` folder.
-3. Open a Pull Request.
 
 <div align="center">
     <br>
