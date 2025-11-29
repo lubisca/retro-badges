@@ -43,9 +43,10 @@
   <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/LINUX-button.png" height="40" alt="Linux">
 </p>
 
+<br>
+<br>
 <br><br>
-
-<p align="right">
+<p align="center">
   <small>Badges by <a href="https://github.com/lubisca/retro-badges">Retro Badges Collection</a></small>
 </p>
 
