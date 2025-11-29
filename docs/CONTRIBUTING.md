@@ -6,7 +6,7 @@ Obrigado pelo interesse em contribuir! Este projeto cresce graças à comunidade
 
 ## 🪄 Comece por aqui (Download do Template)
 
-Para facilitar sua vida, disponibilizamos o arquivo editável oficial do **Affinity Designer**. Ele já está configurado com as fontes, sombras e tamanhos corretos.
+Para facilitar sua vida, disponibilizamos o arquivo editável oficial do **Affinity**. Ele já está configurado com as fontes, sombras e tamanhos corretos.
 
 📂 **[Baixar Template Oficial (.af)](/docs/template.af)**
 
