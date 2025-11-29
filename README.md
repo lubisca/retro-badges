@@ -70,6 +70,7 @@ Clique em uma categoria para ir direto para as badges:
 | **Twitter** | <img src="assets/TWITTER-button.png" height="28"> | `<a target="_blank" href="https://x.com/SEU-NOME-AQUI"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/TWITTER-button.png" height="28" alt="Twitter">` |
 | **Gmail** | <img src="assets/GMAIL-button.png" height="28"> | `<a href="mailto:SEU-EMAIL-AQUI@gmail.com"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/GMAIL-button.png" height="28" alt="Gmail"></a>` |
 | **GitHub** | <img src="assets/GITHUB-button.png" height="28"> | `<a target="_blank" href="https://github.com/SEU-USUARIO"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/GITHUB-button.png" height="28" alt="GitHub"></a>` |
+| **LinkedIn** | <img src="assets/LINKEDIN-button.png" height="28"> | `<a target="_blank" href="https://www.linkedin.com/in/SEU-NOME-AQUI"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/LINKEDIN-button.png" height="28" alt="LinkedIn"></a>` |
 <br>
 
 ## 🛠️ Tools & Softwares
