@@ -45,6 +45,7 @@ Clique em uma categoria para ir direto para as badges:
 | **C++** | <img src="assets/C%2B%2B-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/C%2B%2B-button.png" height="28" alt="C++">` |
 | **C** | <img src="assets/C-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/C-button.png" height="28" alt="C">` |
 | **Swift** | <img src="assets/SWIFT-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/SWIFT-button.png" height="28" alt="Swift">` |
+| **PowerShell** | <img src="assets/POWERSHELL-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/POWERSHELL-button.png" height="28" alt="PowerShell">` |
 
 <br>
 
