@@ -82,8 +82,12 @@ Sou um estudante apaixonado por desenvolvimento de jogos e novas tecnologias. Go
 
 <br><br>
 
+<br>
+<br>
+<br><br>
 <p align="center">
   <small>Badges by <a href="https://github.com/lubisca/retro-badges">Retro Badges Collection</a></small>
 </p>
 
 </div>
+
