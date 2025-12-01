@@ -64,6 +64,9 @@ Click on a category to jump directly to the badges:
 | **React** | <img src="assets/REACT-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/REACT-button.png" height="28" alt="React">` |
 | **Tailwind CSS** | <img src="assets/TAILWINDCSS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/TAILWINDCSS-button.png" height="28" alt="Tailwind CSS">` |
 | **Vue.js** | <img src="assets/VUE-JS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/VUE-JS-button.png" height="28" alt="Vue.js">` |
+| **Node.js** | <img src="assets/NODE-JS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/NODE-JS-button.png" height="28" alt="Node.js">` |
+| **Sass** | <img src="assets/SASS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/SASS-button.png" height="28" alt="Sass">` |
+
 
 <br>
 
@@ -107,6 +110,7 @@ Click on a category to jump directly to the badges:
 | **Figma** | <img src="assets/FIGMA-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/FIGMA-button.png" height="28" alt="Figma">` |
 | **Photoshop** | <img src="assets/ADOBE-PHOTOSHOP-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/ADOBE-PHOTOSHOP-button.png" height="28" alt="Adobe Photoshop">` |
 | **Affinity** | <img src="assets/AFFINITY-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/AFFINITY-button.png" height="28" alt="Affinity">` |
+| **Docker** | <img src="assets/DOCKER-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/DOCKER-button.png" height="28" alt="Docker">` |
  *Coming soon...*
 
 
