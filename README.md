@@ -62,6 +62,7 @@ Clique em uma categoria para ir direto para as badges:
 | **Next.js** | <img src="assets/NEXTDOT-JS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/NEXTDOT-JS-button.png" height="28" alt="Next.js">` |
 | **React** | <img src="assets/REACT-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/REACT-button.png" height="28" alt="React">` |
 | **Tailwind CSS** | <img src="assets/TAILWINDCSS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/TAILWINDCSS-button.png" height="28" alt="Tailwind CSS">` |
+| **Vue.js** | <img src="assets/VUE-JS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/VUE-JS-button.png" height="28" alt="Vue.js">` |
 
 <br>
 
