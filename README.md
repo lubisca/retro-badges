@@ -74,6 +74,8 @@ Clique em uma categoria para ir direto para as badges:
 | **MySQL** | <img src="assets/MYSQL-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/MYSQL-button.png" height="28" alt="MySQL">` |
 | **PostgreSQL** | <img src="assets/POSTGRES-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/POSTGRES-button.png" height="28" alt="PostgreSQL">` |
 | **SQLite** | <img src="assets/SQLITE-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/SQLITE-button.png" height="28" alt="SQLite">` |
+| **MongoDB** | <img src="assets/MONGODB-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/MONGODB-button.png" height="28" alt="MongoDB">` |
+| **Redis** | <img src="assets/REDIS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/REDIS-button.png" height="28" alt="Redis">` |
 
 <br>
 
