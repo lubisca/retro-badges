@@ -20,6 +20,7 @@ Clique em uma categoria para ir direto para as badges:
 * [🎨 Exemplos/Templates](/examples)
 * [💻 Languages](#-Languages)
 * [⚙️ Frameworks & Bibliotecas](#%EF%B8%8F-frameworks--bibliotecas)
+* [🗄️ Banco de Dados](#%EF%B8%8F-banco-de-dados)
 * [🌐 Social](#-social)
 * [🛠️ Tools & Softwares](#%EF%B8%8F-tools--softwares)
 * [🖥️ Sistemas Operacionais](#%EF%B8%8F-sistemas-operacionais)
@@ -62,6 +63,16 @@ Clique em uma categoria para ir direto para as badges:
 | **React** | <img src="assets/REACT-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/REACT-button.png" height="28" alt="React">` |
 | **Tailwind CSS** | <img src="assets/TAILWINDCSS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/TAILWINDCSS-button.png" height="28" alt="Tailwind CSS">` |
 
+<br>
+
+## 🗄️ Banco de Dados
+[Voltar ao topo](#-categorias)
+
+| Nome | Badge | HTML (Copiar e Colar) |
+| :--- | :---: | :--- |
+| **MySQL** | <img src="assets/MYSQL-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/MYSQL-button.png" height="28" alt="MySQL">` |
+| **PostgreSQL** | <img src="assets/POSTGRES-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/POSTGRES-button.png" height="28" alt="PostgreSQL">` |
+| **SQLite** | <img src="assets/SQLITE-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/SQLITE-button.png" height="28" alt="SQLite">` |
 
 <br>
 
