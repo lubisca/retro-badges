@@ -49,6 +49,7 @@ Clique em uma categoria para ir direto para as badges:
 | **PowerShell** | <img src="assets/POWERSHELL-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/POWERSHELL-button.png" height="28" alt="PowerShell">` |
 | **AssemblyScript** | <img src="assets/ASSEMBLYSCRIPT-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/ASSEMBLYSCRIPT-button.png" height="28" alt="AssemblyScript">` |
 | **WebAssembly** | <img src="assets/WEBASSEMBLY-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/WEBASSEMBLY-button.png" height="28" alt="WebAssembly">` |
+| **Kotlin** | <img src="assets/KOTLIN-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/KOTLIN-button.png" height="28" alt="Kotlin">` |
 
 <br>
 
@@ -61,10 +62,12 @@ Clique em uma categoria para ir direto para as badges:
 | **Bootstrap** | <img src="assets/BOOTSTRAP-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/BOOTSTRAP-button.png" height="28" alt="Bootstrap">` |
 | **Next.js** | <img src="assets/NEXTDOT-JS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/NEXTDOT-JS-button.png" height="28" alt="Next.js">` |
 | **React** | <img src="assets/REACT-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/REACT-button.png" height="28" alt="React">` |
+| **React Native** | <img src="assets/REACT-NATIVE-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/REACT-NATIVE-button.png" height="28" alt="React Native">` |
 | **Tailwind CSS** | <img src="assets/TAILWINDCSS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/TAILWINDCSS-button.png" height="28" alt="Tailwind CSS">` |
 | **Vue.js** | <img src="assets/VUE-JS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/VUE-JS-button.png" height="28" alt="Vue.js">` |
 | **Node.js** | <img src="assets/NODE-JS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/NODE-JS-button.png" height="28" alt="Node.js">` |
 | **Sass** | <img src="assets/SASS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/SASS-button.png" height="28" alt="Sass">` |
+| **Flutter** | <img src="assets/FLUTTER-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/FLUTTER-button.png" height="28" alt="Flutter">` |
 
 <br>
 
@@ -119,6 +122,7 @@ Clique em uma categoria para ir direto para as badges:
 
 | Nome | Badge | HTML (Copiar e Colar) |
 | :--- | :---: | :--- |
+| **Android** | <img src="assets/ANDROID-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/ANDROID-button.png" height="28" alt="Android">` |
 | **Windows** | <img src="assets/WINDOWS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/WINDOWS-button.png" height="28" alt="Windows">` |
 | **Linux** | <img src="assets/LINUX-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/LINUX-button.png" height="28" alt="Linux">` |
 | **macOS** | <img src="assets/MAC-OS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/MAC-OS-button.png" height="28" alt="macOS">` |
