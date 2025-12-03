@@ -50,6 +50,8 @@ Click on a category to jump directly to the badges:
 | **AssemblyScript** | <img src="assets/ASSEMBLYSCRIPT-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/ASSEMBLYSCRIPT-button.png" height="28" alt="AssemblyScript">` |
 | **WebAssembly** | <img src="assets/WEBASSEMBLY-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/WEBASSEMBLY-button.png" height="28" alt="WebAssembly">` |
 | **Kotlin** | <img src="assets/KOTLIN-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/KOTLIN-button.png" height="28" alt="Kotlin">` |
+| **Ruby** | <img src="assets/RUBY-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/RUBY-button.png" height="28" alt="Ruby">` |
+| **Rust** | <img src="assets/RUST-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/RUST-button.png" height="28" alt="Rust">` |
 
 
 <br>
@@ -114,7 +116,7 @@ Click on a category to jump directly to the badges:
 | **Photoshop** | <img src="assets/ADOBE-PHOTOSHOP-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/ADOBE-PHOTOSHOP-button.png" height="28" alt="Adobe Photoshop">` |
 | **Affinity** | <img src="assets/AFFINITY-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/AFFINITY-button.png" height="28" alt="Affinity">` |
 | **Docker** | <img src="assets/DOCKER-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/DOCKER-button.png" height="28" alt="Docker">` |
- *Coming soon...*
+| **Bash** | <img src="assets/BASH-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/BASH-button.png" height="28" alt="Bash">` |
 
 
 <br>
