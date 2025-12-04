@@ -70,6 +70,10 @@ Clique em uma categoria para ir direto para as badges:
 | **Node.js** | <img src="assets/NODE-JS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/NODE-JS-button.png" height="28" alt="Node.js">` |
 | **Sass** | <img src="assets/SASS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/SASS-button.png" height="28" alt="Sass">` |
 | **Flutter** | <img src="assets/FLUTTER-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/FLUTTER-button.png" height="28" alt="Flutter">` |
+| **Laravel** | <img src="assets/LARAVEL-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/LARAVEL-button.png" height="28" alt="Laravel">` |
+| **Django** | <img src="assets/DJANGO-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/DJANGO-button.png" height="28" alt="Django">` |
+| **Spring** | <img src="assets/SPRING-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/SPRING-button.png" height="28" alt="Spring">` |
+| **Spring Boot** | <img src="assets/SPRING-BOOT-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/SPRING-BOOT-button.png" height="28" alt="Spring Boot">` |
 
 <br>
 
