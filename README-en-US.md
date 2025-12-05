@@ -121,6 +121,10 @@ Click on a category to jump directly to the badges:
 | **Affinity** | <img src="assets/AFFINITY-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/AFFINITY-button.png" height="28" alt="Affinity">` |
 | **Docker** | <img src="assets/DOCKER-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/DOCKER-button.png" height="28" alt="Docker">` |
 | **Bash** | <img src="assets/BASH-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/BASH-button.png" height="28" alt="Bash">` |
+| **Insomnia** | <img src="assets/INSOMNIA-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/INSOMNIA-button.png" height="28" alt="Insomnia">` |
+| **IntelliJIDEA** | <img src="assets/INTELLIJIDEA-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/INTELLIJIDEA-button.png" height="28" alt="IntelliJ IDEA">` |
+| **Notion** | <img src="assets/NOTION-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/NOTION-button.png" height="28" alt="Notion">` |
+| **Postman** | <img src="assets/POSTMAN-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/POSTMAN-button.png" height="28" alt="Postman">` |
 
 
 <br>
