@@ -144,7 +144,7 @@ Click on a category to jump directly to the badges:
 
 ---
 
-
+<!-- comit text wrong ;/ --->
 <div align="center">
     <br>
     Made with 💜.
