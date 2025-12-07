@@ -124,6 +124,9 @@ Clique em uma categoria para ir direto para as badges:
 | **IntelliJ IDEA** | <img src="assets/INTELLIJIDEA-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/INTELLIJIDEA-button.png" height="28" alt="IntelliJ IDEA">` |
 | **Notion** | <img src="assets/NOTION-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/NOTION-button.png" height="28" alt="Notion">` |
 | **Postman** | <img src="assets/POSTMAN-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/POSTMAN-button.png" height="28" alt="Postman">` |
+| **NPM** | <img src="assets/NPM-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/NPM-button.png" height="28" alt="NPM">` |
+| **Vite** | <img src="assets/VITE-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/VITE-button.png" height="28" alt="Vite">` |
+| **Yarn** | <img src="assets/YARN-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/YARN-button.png" height="28" alt="Yarn">` |
 
  <br>
 
