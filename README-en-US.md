@@ -75,6 +75,7 @@ Click on a category to jump directly to the badges:
 | **Django** | <img src="assets/DJANGO-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/DJANGO-button.png" height="28" alt="Django">` |
 | **Spring** | <img src="assets/SPRING-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/SPRING-button.png" height="28" alt="Spring">` |
 | **Spring Boot** | <img src="assets/SPRING-BOOT-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/SPRING-BOOT-button.png" height="28" alt="Spring Boot">` |
+| **WordPress** | <img src="assets/WORDPRESS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/WORDPRESS-button.png" height="28" alt="WordPress">` |
 
 
 <br>
@@ -105,6 +106,7 @@ Click on a category to jump directly to the badges:
 | **Bluesky** | <img src="assets/BLUESKY-button.png" height="28"> | `<a target="_blank" href="https://bsky.app/profile/SEU-USER"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/BLUESKY-button.png" height="28" alt="Bluesky"></a>` |
 | **Discord** | <img src="assets/DISCORD-button.png" height="28"> | `<a target="_blank" href="https://discord.com/users/SEU-ID"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/DISCORD-button.png" height="28" alt="Discord"></a>` |
 | **Threads** | <img src="assets/THREADS-button.png" height="28"> | `<a target="_blank" href="https://www.threads.net/@SEU-USER"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/THREADS-button.png" height="28" alt="Threads"></a>` |
+| **Stack Overflow** | <img src="assets/STACKOVERFLOW-button.png" height="28"> | `<a target="_blank" href="https://stackoverflow.com/users/SEU-ID"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/STACKOVERFLOW-button.png" height="28" alt="Stack Overflow"></a>` |
 
 <br>
 
@@ -128,6 +130,7 @@ Click on a category to jump directly to the badges:
 | **NPM** | <img src="assets/NPM-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/NPM-button.png" height="28" alt="NPM">` |
 | **Vite** | <img src="assets/VITE-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/VITE-button.png" height="28" alt="Vite">` |
 | **Yarn** | <img src="assets/YARN-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/YARN-button.png" height="28" alt="Yarn">` |
+| **Firebase** | <img src="assets/FIREBASE-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/FIREBASE-button.png" height="28" alt="Firebase">` |
 
 
 <br>
