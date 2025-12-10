@@ -52,6 +52,8 @@ Click on a category to jump directly to the badges:
 | **Kotlin** | <img src="assets/KOTLIN-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/KOTLIN-button.png" height="28" alt="Kotlin">` |
 | **Ruby** | <img src="assets/RUBY-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/RUBY-button.png" height="28" alt="Ruby">` |
 | **Rust** | <img src="assets/RUST-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/RUST-button.png" height="28" alt="Rust">` |
+| **GraphQL** | <img src="assets/GRAPHQL-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/GRAPHQL-button.png" height="28" alt="GraphQL">` |
+| **Dart** | <img src="assets/DART-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/DART-button.png" height="28" alt="Dart">` |
 
 
 <br>
@@ -131,6 +133,7 @@ Click on a category to jump directly to the badges:
 | **Vite** | <img src="assets/VITE-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/VITE-button.png" height="28" alt="Vite">` |
 | **Yarn** | <img src="assets/YARN-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/YARN-button.png" height="28" alt="Yarn">` |
 | **Firebase** | <img src="assets/FIREBASE-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/FIREBASE-button.png" height="28" alt="Firebase">` |
+| **Vercel** | <img src="assets/VERCEL-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/VERCEL-button.png" height="28" alt="Vercel">` |
 
 
 <br>
