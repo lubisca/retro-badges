@@ -79,6 +79,7 @@ Clique em uma categoria para ir direto para as badges:
 | **Spring** | <img src="assets/SPRING-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/SPRING-button.png" height="28" alt="Spring">` |
 | **Spring Boot** | <img src="assets/SPRING-BOOT-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/SPRING-BOOT-button.png" height="28" alt="Spring Boot">` |
 | **WordPress** | <img src="assets/WORDPRESS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/WORDPRESS-button.png" height="28" alt="WordPress">` |
+| **Prisma** | <img src="assets/PRISMA-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/PRISMA-button.png" height="28" alt="Prisma">` |
 
 <br>
 
@@ -135,6 +136,7 @@ Clique em uma categoria para ir direto para as badges:
 | **Yarn** | <img src="assets/YARN-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/YARN-button.png" height="28" alt="Yarn">` |
 | **Firebase** | <img src="assets/FIREBASE-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/FIREBASE-button.png" height="28" alt="Firebase">` |
 | **Vercel** | <img src="assets/VERCEL-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/VERCEL-button.png" height="28" alt="Vercel">` |
+| **Supabase** | <img src="assets/SUPABASE-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/SUPABASE-button.png" height="28" alt="Supabase">` |
 
  <br>
 
