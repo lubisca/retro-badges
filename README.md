@@ -80,6 +80,8 @@ Clique em uma categoria para ir direto para as badges:
 | **Spring Boot** | <img src="assets/SPRING-BOOT-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/SPRING-BOOT-button.png" height="28" alt="Spring Boot">` |
 | **WordPress** | <img src="assets/WORDPRESS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/WORDPRESS-button.png" height="28" alt="WordPress">` |
 | **Prisma** | <img src="assets/PRISMA-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/PRISMA-button.png" height="28" alt="Prisma">` |
+| **jQuery** | <img src="assets/JQUERY-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/JQUERY-button.png" height="28" alt="jQuery">` |
+| **Redux** | <img src="assets/REDUX-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/REDUX-button.png" height="28" alt="Redux">` |
 
 <br>
 
@@ -110,6 +112,8 @@ Clique em uma categoria para ir direto para as badges:
 | **Bluesky** | <img src="assets/BLUESKY-button.png" height="28"> | `<a target="_blank" href="https://bsky.app/profile/SEU-USER"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/BLUESKY-button.png" height="28" alt="Bluesky"></a>` |
 | **Discord** | <img src="assets/DISCORD-button.png" height="28"> | `<a target="_blank" href="https://discord.com/users/SEU-ID"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/DISCORD-button.png" height="28" alt="Discord"></a>` |
 | **Threads** | <img src="assets/THREADS-button.png" height="28"> | `<a target="_blank" href="https://www.threads.net/@SEU-USER"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/THREADS-button.png" height="28" alt="Threads"></a>` |
+| **Buy Me A Coffee** | <img src="assets/BUY-ME-A-COFFEE-button.png" height="28"> | `<a target="_blank" href="https://www.buymeacoffee.com/SEU-USER"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/BUY-ME-A-COFFEE-button.png" height="28" alt="Buy Me A Coffee"></a>` |
+| **Portfolio** | <img src="assets/PORTFOLIO-button.png" height="28"> | `<a target="_blank" href="https://SEU-SITE.com"><img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/PORTFOLIO-button.png" height="28" alt="Portfolio"></a>` |
 
 
 <br>
