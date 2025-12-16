@@ -140,6 +140,10 @@ Click on a category to jump directly to the badges:
 | **Firebase** | <img src="assets/FIREBASE-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/FIREBASE-button.png" height="28" alt="Firebase">` |
 | **Vercel** | <img src="assets/VERCEL-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/VERCEL-button.png" height="28" alt="Vercel">` |
 | **Supabase** | <img src="assets/SUPABASE-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/SUPABASE-button.png" height="28" alt="Supabase">` |
+| **Godot** | <img src="assets/GODOT-ENGINE-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/GODOT-ENGINE-button.png" height="28" alt="Godot">` |
+| **Unity** | <img src="assets/UNITY-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/UNITY-button.png" height="28" alt="Unity">` |
+| **Unreal Engine** | <img src="assets/UNREAL-ENGINE-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/UNREAL-ENGINE-button.png" height="28" alt="Unreal Engine">` |
+
 
 
 <br>
