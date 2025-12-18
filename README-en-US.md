@@ -65,7 +65,7 @@ Click on a category to jump directly to the badges:
 | :--- | :---: | :--- |
 | **Ant Design** | <img src="assets/ANTDESIGN-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/ANTDESIGN-button.png" height="28" alt="Ant Design">` |
 | **Bootstrap** | <img src="assets/BOOTSTRAP-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/BOOTSTRAP-button.png" height="28" alt="Bootstrap">` |
-| **Next.js** | <img src="assets/NEXTDOT-JS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/NEXTDOT-JS-button.png" height="28" alt="Next.js">` |
+| **Next.js** | <img src="assets/NEXT-JS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/NEXT-JS-button.png" height="28" alt="Next.js">` |
 | **React** | <img src="assets/REACT-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/REACT-button.png" height="28" alt="React">` |
 | **React Native** | <img src="assets/REACT-NATIVE-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/REACT-NATIVE-button.png" height="28" alt="React Native">` |
 | **Tailwind CSS** | <img src="assets/TAILWINDCSS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/TAILWINDCSS-button.png" height="28" alt="Tailwind CSS">` |
