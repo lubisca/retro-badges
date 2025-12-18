@@ -64,6 +64,8 @@ Clique em uma categoria para ir direto para as badges:
 
 | Nome | Badge | HTML (Copiar e Colar) |
 | :--- | :---: | :--- |
+| **.NET** | <img src="assets/NET-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/NET-button.png" height="28" alt=".NET">` |
+| **Angular** | <img src="assets/ANGULAR-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/ANGULAR-button.png" height="28" alt="Angular">` |
 | **Ant Design** | <img src="assets/ANTDESIGN-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/ANTDESIGN-button.png" height="28" alt="Ant Design">` |
 | **Bootstrap** | <img src="assets/BOOTSTRAP-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/BOOTSTRAP-button.png" height="28" alt="Bootstrap">` |
 | **Next.js** | <img src="assets/NEXT-JS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/NEXT-JS-button.png" height="28" alt="Next.js">` |
@@ -129,6 +131,7 @@ Clique em uma categoria para ir direto para as badges:
 | **Blender** | <img src="assets/BLENDER-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/BLENDER-button.png" height="28" alt="Blender">` |
 | **Figma** | <img src="assets/FIGMA-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/FIGMA-button.png" height="28" alt="Figma">` |
 | **Photoshop** | <img src="assets/ADOBE-PHOTOSHOP-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/ADOBE-PHOTOSHOP-button.png" height="28" alt="Adobe Photoshop">` |
+| **Arduino** | <img src="assets/ARDUINO-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/ARDUINO-button.png" height="28" alt="Arduino">` |
 | **Affinity** | <img src="assets/AFFINITY-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/AFFINITY-button.png" height="28" alt="Affinity">` |
 | **Docker** | <img src="assets/DOCKER-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/DOCKER-button.png" height="28" alt="Docker">` |
 | **Bash** | <img src="assets/BASH-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/BASH-button.png" height="28" alt="Bash">` |
