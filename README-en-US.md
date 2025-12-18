@@ -63,6 +63,8 @@ Click on a category to jump directly to the badges:
 
 | Nome | Badge | HTML (Copiar e Colar) |
 | :--- | :---: | :--- |
+| **.NET** | <img src="assets/NET-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/NET-button.png" height="28" alt=".NET">` |
+| **Angular** | <img src="assets/ANGULAR-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/ANGULAR-button.png" height="28" alt="Angular">` |
 | **Ant Design** | <img src="assets/ANTDESIGN-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/ANTDESIGN-button.png" height="28" alt="Ant Design">` |
 | **Bootstrap** | <img src="assets/BOOTSTRAP-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/BOOTSTRAP-button.png" height="28" alt="Bootstrap">` |
 | **Next.js** | <img src="assets/NEXT-JS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/NEXT-JS-button.png" height="28" alt="Next.js">` |
@@ -123,6 +125,7 @@ Click on a category to jump directly to the badges:
 
 | Name | Badge | HTML (Copy & Paste) |
 | :--- | :---: | :--- |
+| **Arduino** | <img src="assets/ARDUINO-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/ARDUINO-button.png" height="28" alt="Arduino">` |
 | **Git** | <img src="assets/GIT-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/GIT-button.png" height="28" alt="Git">` |
 | **VS Code** | <img src="assets/VSCODE-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/VSCODE-button.png" height="28" alt="VS Code">` |
 | **Blender** | <img src="assets/BLENDER-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/BLENDER-button.png" height="28" alt="Blender">` |
