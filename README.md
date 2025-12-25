@@ -5,7 +5,7 @@
 **Uma coleção de badges para dar aquele visual nostálgico e profissional ao seu perfil.**
 <br>
 
-[English](/README-en-US.md) | **Português**
+[English](/README-en-US.md) | **Português** | [日本語](/README-ja.md)
 
 <img src="assets/retro.gif" width="600" height="300" alt="Retro Banner">
 
