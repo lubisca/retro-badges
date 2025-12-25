@@ -19,7 +19,7 @@
 
 ### 🌟 Core Stack
 <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/REACT-button.png" height="45" alt="React">
-<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/NEXTDOT-JS-button.png" height="45" alt="Next.js">
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/NEXT-JS-button.png" height="45" alt="Next.js">
 <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/TAILWINDCSS-button.png" height="45" alt="Tailwind CSS">
 <br>
 <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/JS-button.png" height="45" alt="JavaScript">
