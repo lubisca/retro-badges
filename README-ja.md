@@ -40,6 +40,7 @@
 | **Go** | <img src="assets/GO-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/GO-button.png" height="28" alt="Go">` |
 | **TypeScript** | <img src="assets/TYPESCRIPT-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/TYPESCRIPT-button.png" height="28" alt="TypeScript">` |
 | **Python** | <img src="assets/PYTHON-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/PYTHON-button.png" height="28" alt="Python">` |
+| **R** | <img src="assets/R-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/R-button.png" height="28" alt="R">` |
 | **PHP** | <img src="assets/PHP-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/PHP-button.png" height="28" alt="PHP">` |
 | **Java** | <img src="assets/JAVA-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/JAVA-button.png" height="28" alt="Java">` |
 | **C#** | <img src="assets/C%23-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/C%23-button.png" height="28" alt="C#">` |
@@ -79,6 +80,7 @@
 | **Flutter** | <img src="assets/FLUTTER-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/FLUTTER-button.png" height="28" alt="Flutter">` |
 | **Laravel** | <img src="assets/LARAVEL-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/LARAVEL-button.png" height="28" alt="Laravel">` |
 | **Django** | <img src="assets/DJANGO-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/DJANGO-button.png" height="28" alt="Django">` |
+| **Express.js** | <img src="assets/EXPRESS-JS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/EXPRESS-JS-button.png" height="28" alt="Express.js">` |
 | **Spring** | <img src="assets/SPRING-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/SPRING-button.png" height="28" alt="Spring">` |
 | **Spring Boot** | <img src="assets/SPRING-BOOT-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/SPRING-BOOT-button.png" height="28" alt="Spring Boot">` |
 | **WordPress** | <img src="assets/WORDPRESS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/WORDPRESS-button.png" height="28" alt="WordPress">` |
