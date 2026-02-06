@@ -86,6 +86,7 @@ Clique em uma categoria para ir direto para as badges:
 | **WordPress** | <img src="assets/WORDPRESS-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/WORDPRESS-button.png" height="28" alt="WordPress">` |
 | **Prisma** | <img src="assets/PRISMA-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/PRISMA-button.png" height="28" alt="Prisma">` |
 | **jQuery** | <img src="assets/JQUERY-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/JQUERY-button.png" height="28" alt="jQuery">` |
+| **Jest** | <img src="assets/JEST-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/JEST-button.png" height="28" alt="Jest">` |
 | **Redux** | <img src="assets/REDUX-button.png" height="28"> | `<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/REDUX-button.png" height="28" alt="Redux">` |
 
 <br>
